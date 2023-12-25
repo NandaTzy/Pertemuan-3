@@ -1,0 +1,10 @@
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.exe.config
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.exe
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\bin\Debug\AplikasiLatihan3.pdb
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csprojAssemblyReference.cache
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.frmLatihanTiga3.resources
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.Properties.Resources.resources
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csproj.GenerateResource.cache
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.csproj.CoreCompileInputs.cache
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.exe
+E:\22.11.4751\tugas3\AplikasiLatihan3\AplikasiLatihan3\obj\Debug\AplikasiLatihan3.pdb
